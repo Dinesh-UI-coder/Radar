@@ -1,7 +1,7 @@
 # Radar
 Android application for real-time flight tracking
-![h](https://github.com/user-attachments/assets/f788cf5e-dd40-4fd8-87a9-b045a06a671c)
 <img width="731" height="1600" alt="Progetto senza titolo (8)" src="https://github.com/user-attachments/assets/01f4b31c-3f0f-4f04-8f4b-774f86b02aeb" />
+![h](https://github.com/user-attachments/assets/f788cf5e-dd40-4fd8-87a9-b045a06a671c)
 
 RadarSystem is an advanced Android application for real-time flight tracking, built with MapLibre SDK and Kotlin.
 
