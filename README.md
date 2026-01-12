@@ -6,7 +6,7 @@ RadarSystem is an advanced Android application for real-time flight tracking, bu
 
 To run the project correctly, you need to configure the following API Keys within the `MainActivity.kt` file (or in the appropriate configuration file):
 
-Logostream  is the official link partner don't forget to go to their site to create your own api key and to consult their api  and documentation| [Get Key](https://logostream.dev/) |
+Logostream  is the official link partner don't forget to go to their site to create your own api key and to consult their api  and documentation| [Get Key](https://airline.logostream.dev/) |
 MapTiler Vector maps and styles | [Get Key](https://www.maptiler.com/cloud/) 
 
 OpenSky Live air traffic data | [Register](https://opensky-network.org/) |
